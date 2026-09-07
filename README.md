@@ -389,27 +389,10 @@ Error responses should provide enough information for the client and developers 
 
 ---
 
-## Definition of Done
 
-A feature or task can be considered complete when:
-
-- [ ] Requirement is understood
-- [ ] Implementation is completed
-- [ ] Input validation is implemented
-- [ ] Tests are completed
-- [ ] Tests are passing
-- [ ] Code follows project standards
-- [ ] Code review is completed
-- [ ] No critical issues remain
-- [ ] Required documentation is updated
-- [ ] Pull Request is approved and merged
-
----
 
 ## Notes
 
-This project is currently documented as a proposed Leave Management System.
+This project is currently documented as a proposed Leave Management System is in ongoing.
 
-The exact commands for dependency installation, database migration, testing, and application startup will depend on the technology stack selected during implementation.
 
-The documentation should be updated as the project architecture and implementation become finalized.
