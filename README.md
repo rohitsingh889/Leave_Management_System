@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The Leave Management System is a web-based application designed to manage employee leave requests in an organization.
+The Leave Management System is a software designed to manage employee leave requests in an organization.
 
 Employees can apply for leave, check their leave balance, and track the status of their requests. Managers can review, approve, or reject leave requests.
 
