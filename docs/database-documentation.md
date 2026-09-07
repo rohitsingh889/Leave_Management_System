@@ -171,7 +171,7 @@ Relationship overview:
        └──────────< ApprovalHistory
 
 ---
-
+![ER Diagram](./docs/images/er-diagram.png)
 ## 8. Data Flow
 
 The basic database flow for a leave request is:
